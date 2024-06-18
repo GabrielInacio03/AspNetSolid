@@ -6,7 +6,7 @@ O => OCP => Open / Closed Principle. Entidades de software devem estar abertas p
 
 L => LSP => Liskov Substitution Principle. Uma classe base deve poder ser substituida por sua classe derivada
 
-I => ISP => Interface Segregation Principle
+I => ISP => Interface Segregation Principle. CLientes não devem ser forçados a depender de métodos que não usam
 
 D => DIP => Dependency Inversion Principle
 
