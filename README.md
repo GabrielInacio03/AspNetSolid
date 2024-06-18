@@ -1,10 +1,10 @@
 # SOLID
 
-S => SRP => Single Responsibility Principle
+S => SRP => Single Responsibility Principle. Princípio da responsabilidade única
 
-O => OCP => Open / Closed Principle
+O => OCP => Open / Closed Principle. Entidades de software devem estar abertas para extensão, mas fechadas para modificações
 
-L => LSP => Liskov Substitution Principle
+L => LSP => Liskov Substitution Principle. Uma classe base deve poder ser substituida por sua classe derivada
 
 I => ISP => Interface Segregation Principle
 
